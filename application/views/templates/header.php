@@ -39,7 +39,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 
 
     <title><?= $judul ?></title>
-    <!-- <link rel="icon" type="image/png" href=""> -->
+    <link rel="icon" type="image/png" href="<?= base_url('file/app/icon-2.png') ?>">
 </head>
 
 <body class="">
